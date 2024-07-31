@@ -27,3 +27,14 @@
     padding: 10px;
     cursor: pointer;
 } 
+.left-arrow {
+    left: 0;
+}
+
+.right-arrow {
+    right: 0;
+}
+
+.arrow:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
