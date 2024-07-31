@@ -1,0 +1,9 @@
+.head-img-container {
+    position: relative;
+    width: 1200px;
+    margin: auto;
+}
+.img-wrapper {
+    position: relative;
+    text-align: center;
+}
