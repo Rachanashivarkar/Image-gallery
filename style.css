@@ -7,3 +7,23 @@
     position: relative;
     text-align: center;
 }
+.head-img{
+    text-align: center;
+}
+
+.img-caption {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+}
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+} 
